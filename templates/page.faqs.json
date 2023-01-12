@@ -1,0 +1,107 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "b4ba84bb-5689-4c95-bb01-62cfc550e275": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my order ship?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where is my order?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you ship outside Canada?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "3dbab257-ae3c-4717-bc28-446fdcb7eb17": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I get a refund?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return or exchange an item?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "b2250cc4-ee18-454a-ad1c-8e7ed350c95d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My order has incorrect or missing items. What do I do?",
+            "icon": "heart",
+            "row_content": "<p>You can create anything that makes you happy. Let's put some happy trees and bushes back in here. Let your heart be your guide. You can create beautiful things - but you have to see them in your mind first.<\/p>",
+            "page": ""
+          }
+        },
+        "cd5c1ee1-8a0d-46d4-aecd-6377215e1a03": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "My order arrived damaged. What do I do?",
+            "icon": "heart",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-0",
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-1",
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-2",
+        "3dbab257-ae3c-4717-bc28-446fdcb7eb17",
+        "template--17494674702633__b4ba84bb-5689-4c95-bb01-62cfc550e275-167320906765f0447c-3",
+        "b2250cc4-ee18-454a-ad1c-8e7ed350c95d",
+        "cd5c1ee1-8a0d-46d4-aecd-6377215e1a03"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b4ba84bb-5689-4c95-bb01-62cfc550e275"
+  ]
+}

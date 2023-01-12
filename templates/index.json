@@ -1,0 +1,70 @@
+{
+  "sections": {
+    "873f4300-2510-4c88-817c-5c0b79b3a788": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17493580742953__873f4300-2510-4c88-817c-5c0b79b3a788-1673202157f342f182-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Order now for free Starbucks!",
+            "heading_size": "h1"
+          }
+        },
+        "template--17493580742953__873f4300-2510-4c88-817c-5c0b79b3a788-1673202157f342f182-1": {
+          "type": "text",
+          "settings": {
+            "text": "First 10 orders will receive a $10 Starbucks card! Add your items to your cart and checkout and you'll receive a physical loaded starbucks card with your order",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17493580742953__873f4300-2510-4c88-817c-5c0b79b3a788-1673202157f342f182-0",
+        "template--17493580742953__873f4300-2510-4c88-817c-5c0b79b3a788-1673202157f342f182-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "873f4300-2510-4c88-817c-5c0b79b3a788",
+    "featured_collection"
+  ]
+}

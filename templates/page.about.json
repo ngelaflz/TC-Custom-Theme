@@ -1,0 +1,83 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "98e48e68-80ce-4b78-a940-e158fd5abcb0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17494457418025__98e48e68-80ce-4b78-a940-e158fd5abcb0-1673207898739f2ab8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Mission<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--17494457418025__98e48e68-80ce-4b78-a940-e158fd5abcb0-1673207898739f2ab8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Didn't you know you had that much power? You can move mountains. You can do anything. This is a happy place, little squirrels live here and play. Once you learn the technique, ohhh!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17494457418025__98e48e68-80ce-4b78-a940-e158fd5abcb0-1673207898739f2ab8-0",
+        "template--17494457418025__98e48e68-80ce-4b78-a940-e158fd5abcb0-1673207898739f2ab8-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ca863f85-5787-4328-b76f-47b83d2d95f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17494457418025__ca863f85-5787-4328-b76f-47b83d2d95f1-1673207898f7d533a3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Founder",
+            "heading_size": "h2"
+          }
+        },
+        "template--17494457418025__ca863f85-5787-4328-b76f-47b83d2d95f1-1673207898f7d533a3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The least little bit can do so much. It's so important to do something every day that will make you happy. You can't make a mistake. Anything that happens you can learn to use - and make something beautiful out of it. We're trying to teach you a technique here and how to use it. Put light against light - you have nothing. Put dark against dark - you have nothing.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--17494457418025__ca863f85-5787-4328-b76f-47b83d2d95f1-1673207898f7d533a3-0",
+        "template--17494457418025__ca863f85-5787-4328-b76f-47b83d2d95f1-1673207898f7d533a3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/sad-woman-looking-down.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    }
+  },
+  "order": [
+    "main",
+    "98e48e68-80ce-4b78-a940-e158fd5abcb0",
+    "ca863f85-5787-4328-b76f-47b83d2d95f1"
+  ]
+}
