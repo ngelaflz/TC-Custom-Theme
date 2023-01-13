@@ -698,6 +698,7 @@ hr {
   display: block;
 }
 
+
 .placeholder {
   background-color: rgba(var(--color-foreground), 0.04);
   color: rgba(var(--color-foreground), 0.55);
@@ -1681,6 +1682,7 @@ details[open] > .share-button__fallback {
   min-width: calc(7rem + (var(--inputs-border-width) * 2));
   position: relative;
   border: 0;
+  /* border-color:#6DB9E8; */
 }
 
 .field:before,
@@ -2389,7 +2391,7 @@ input[type='checkbox'] {
 
 .header__icon:hover .icon,
 .modal__close-button:hover .icon {
-  transform: scale(1.07);
+  color: #6db9e8;
 }
 
 .header__icon .icon {
@@ -2630,13 +2632,16 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item {
-  padding: 1.2rem;
+  padding: 10px 20px;
   text-decoration: none;
   color: rgba(var(--color-foreground), 0.75);
+  border-radius: 100px;
+  
 }
 
 .header__menu-item:hover {
-  color: rgb(var(--color-foreground));
+  color: rgba(var(--color-foreground), 0.75);
+  border: 1px solid #6DB9E8;
 }
 
 .header__menu-item span {
@@ -2644,11 +2649,12 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item:hover span {
-  text-decoration: underline;
   text-underline-offset: 0.3rem;
 }
 
-details[open] > .header__menu-item {
+/* comment in to make styles for the selected menu item */
+
+/* details[open] > .header__menu-item {
   text-decoration: underline;
 }
 
@@ -2665,7 +2671,7 @@ details[open] > .header__menu-item .icon-caret {
   color: rgb(var(--color-foreground));
   text-decoration: underline;
   text-underline-offset: 0.3rem;
-}
+} */
 
 .header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.2rem;

@@ -49,6 +49,7 @@
   top: 0;
   height: 100%;
   z-index: 2;
+  /* border-color:#6db9e8; */
 }
 
 .newsletter-form__button:focus-visible {
