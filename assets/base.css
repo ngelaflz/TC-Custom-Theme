@@ -78,7 +78,12 @@
   --color-button-text: var(--color-base-outline-button-labels);
   --color-button: var(--color-background);
   --alpha-button-background: 1;
+  /* background-color: pink; */
 }
+
+/* #shopify-section-template--17547736875305__featured_collection .button--secondary:hover{
+  background-color: pink;
+} */
 
 .color-background-2 .button--secondary,
 .color-accent-1 .button--secondary,
@@ -738,10 +743,11 @@ details > * {
   transition: text-decoration-thickness ease 100ms;
 }
 
+/* To remove hover (this and underlined-links-hover in card component class */
 .underlined-link:hover,
 .customer a:hover {
-  color: rgb(var(--color-link));
-  text-decoration-thickness: 0.2rem;
+  /* color: rgb(var(--color-link));
+  text-decoration-thickness: 0.2rem; */
 }
 
 .icon-arrow {
@@ -1990,8 +1996,10 @@ input[type='checkbox'] {
   left: var(--inputs-border-width);
   border: 0.1rem solid transparent;
   border-radius: var(--inputs-radius);
-  box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
-  transition: box-shadow var(--duration-short) ease;
+  border-color: #6DB9E8;
+  border-width: 1px;
+  /* box-shadow: 0 0 0 var(--inputs-border-width) rgba(var(--color-foreground), var(--inputs-border-opacity));
+  transition: box-shadow var(--duration-short) ease; */
   z-index: 1;
 }
 

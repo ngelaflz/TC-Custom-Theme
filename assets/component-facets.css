@@ -227,8 +227,9 @@
   transition: text-decoration var(--duration-short) ease;
 }
 
+/* removed underline */
 .facets__summary:hover span {
-  text-decoration: underline;
+  /* text-decoration: underline; */
   text-underline-offset: 0.3rem;
 }
 
